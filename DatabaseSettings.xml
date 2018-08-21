@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>Romanian_CI_AS</Collation>
+  <ServerVersion>Sql2017</ServerVersion>
+  <ServerName>SERVER</ServerName>
+  <DatabaseName>solidcp_test</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
